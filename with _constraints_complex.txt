@@ -1,0 +1,13 @@
+2
+[Q0, C_lt_x_0, F1]
+[F1, G_sync?a, Q0]
+done
+2
+[Q0, C_lt_y_0, F1]
+[F1, G_sync!b, Q0]
+done
+3
+[Q0, G_sync?a&G_sync!b, Q1]
+[Q1, C_gt_y_0, F2]
+[F2, G_sync?a&G_sync!b, Q1]
+done

@@ -1,0 +1,19 @@
+2
+[Q0_a, G_a!x, F1_a]
+[F1_a, G_a!x, F1_a]
+[F1_a, G_b!x, Q0_a]
+done
+3
+[Q0_a, G_a?y, F1_a]
+[F1_a, G_a?y, F2_a]
+[F1_a, C_eq_y_0, Q0_a]
+[F1_a, G_a?y, F2_a]
+[F2_a, G_b?y, F1_a]
+[F2_a, C_ge_y_0, Q0_a]
+[F2_a, G_b?y, F1_a]
+done
+2
+[Q0_a, G_a!x&G_a?y, F1_a]
+[F1_a, G_a!x&G_a?y, F1_a]
+[F1_a, G_b!x&G_b?y, Q0_a]
+done

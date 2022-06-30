@@ -1,0 +1,13 @@
+3
+[Q0, G_read?x, Q1]
+[Q1, C_lt_x_0, F2]
+[F2, G_sync?a, Q0]
+done
+3
+[Q0, G_readd?y, Q1]
+[Q1, C_lt_y_0, F2]
+[F2, G_sync!b, Q0]
+done
+1
+[F0_a, C_eq_x_y, F0_a]
+done

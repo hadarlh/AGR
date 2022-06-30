@@ -1,0 +1,9 @@
+1
+[F0_a, C_lt_x_0, F0_a]
+done
+1
+[F0_a, C_lt_y_0, F0_a]
+done
+1
+[Q0_a, C_eq_x_y, Q0_a]
+done
